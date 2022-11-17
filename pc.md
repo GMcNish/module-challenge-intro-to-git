@@ -10,3 +10,21 @@ Now that you are all set up, it's time to learn a little more about the tools of
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
 7. What is a merge conflict?
 8. How do you resolve a merge conflict?
+
+Answers:
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
